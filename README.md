@@ -37,4 +37,4 @@ For any questions or feedback, feel free to reach out via [email](mailto:xakep32
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
